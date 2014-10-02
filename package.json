@@ -1,8 +1,0 @@
-{
-  "name": "meteor-newrelic",
-  "description": "newrelic bindings for meteor",
-  "homepage": "https://github.com/andreioprisan/meteor-newrelic",
-  "author": "Andrei Oprisan (http://andrei.oprisan.com)",
-  "version": "1.0.1",
-  "git": "https://github.com/andreioprisan/meteor-newrelic.git"
-}
