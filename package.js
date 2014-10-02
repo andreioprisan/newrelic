@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Meteor NewRelic agent",
   "name": "mycartio:newrelic",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Andrei Oprisan (http://andrei.oprisan.com)",
   "homepage": "https://github.com/mycartio/newrelic",
   "git": "https://github.com/mycartio/newrelic.git"
