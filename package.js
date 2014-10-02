@@ -1,13 +1,15 @@
 Package.describe({
-  summary: "meteor sql bindings for server-side calls",
+  summary: "Meteor NewRelic agent",
   "name": "mycartio:newrelic",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Andrei Oprisan (http://andrei.oprisan.com)",
   "homepage": "https://github.com/mycartio/newrelic",
-  "git": "https://github.com/mycartio/newrelic.git",
+  "git": "https://github.com/mycartio/newrelic.git"
 });
 
-Npm.depends({ "newrelic": "1.11.3" });
+Npm.depends({ 
+  "newrelic": "1.11.3" 
+});
 
 Package.on_use(function(api) {
   api.versionsFrom("METEOR@0.9.0");
